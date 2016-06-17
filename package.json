@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brianjoyner/stay-in-your-lane/issues"
   },
-  "homepage": "https://github.com/brianjoyner/stay-in-your-lane#readme"
+  "homepage": "https://github.com/brianjoyner/stay-in-your-lane#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
