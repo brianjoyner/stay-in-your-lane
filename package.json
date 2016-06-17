@@ -1,0 +1,19 @@
+{
+  "name": "stay-in-your-lane",
+  "version": "1.0.0",
+  "description": "Stay In Your Lane Daelemans",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianjoyner/stay-in-your-lane.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianjoyner/stay-in-your-lane/issues"
+  },
+  "homepage": "https://github.com/brianjoyner/stay-in-your-lane#readme"
+}
